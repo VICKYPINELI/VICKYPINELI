@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vicky Pinero Elices</h1>
-<h3 align="center">Apasionado del desarrollo web</h3>
+<h1 align="center">kaixo 👋, Soy Vicky Pinero Elices</h1>
+<h3 align="center">Apasionada del desarrollo web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickypineli&label=Profile%20views&color=0e75b6&style=flat" alt="vickypineli" /> </p>
 
