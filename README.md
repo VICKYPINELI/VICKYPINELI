@@ -1,7 +1,10 @@
 <h1 align="center">kaixo 👋, Soy Vicky Pinero Elices</h1>
 <h3 align="center">Apasionada del desarrollo web</h3>
+<img src="https://camo.githubusercontent.com/f3f445f04efefbcf626223a7edf5e80c152ce843eacd502b5440b5e1f6a34274/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6475726174696f6e3d3230303026636f6c6f723d4330303031352677696474683d313530266865696768743d3330266c696e65733d546563682b4c6f766572" alt="apasionada del mundo web" data-canonical-src="https://readme-typing-svg.herokuapp.com?duration=2000&amp;color=C00015&amp;width=250&amp;height=230&amp;lines=Apasionada + del+ mundo+ web" style="max-width: 200%;">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vickypineli&label=Profile%20views&color=0e75b6&style=flat" alt="vickypineli" /></p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
