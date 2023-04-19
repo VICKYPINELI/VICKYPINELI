@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="left">Hi, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Vicky</a><img width="40" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
   <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" align="left" height="250" width="250" /></h1>
-  <h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?Code&pause=1000&color=9a15ad&left=true&Center=true&width=400&lines=+Woman+coder;+Full+stack+developer+junior+;+Apasionada+del+mundo+web;+Welcome+to+my+digital+universe+" alt="Typing SVG" /></a></h2>
+<h3 align="left">A passionate web developer from Basque Country</h3> <h3 align="left"> <a aling="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?Code&pause=1000&color=9a15ad&left=true&Center=true&width=400&lines=+Woman+coder;+Full+stack+developer+junior+;+Apasionada+del+mundo+web;+Welcome+to+my+digital+universe+" alt="Typing SVG" /></a></h3>
 
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>
@@ -34,10 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />&nbsp; 
    </p>
+
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://linkedin.com/in/vicky pinero elices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicky pinero elices" height="55" width="55" /></a>
-
-
+  <a href="https://twitter.com/vickypineli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickypineli" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vickypineroelices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vickypineroelices" height="30" width="40" /></a>
+  <a href="https://fb.com/vicky pinero elices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vicky pinero elices" height="30" width="40" /></a>
+  <a href="https://instagram.com/vickypineroelices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vickypineroelices" height="30" width="40" /></a>
+  </p>
 
 
