@@ -4,7 +4,7 @@
 <h3 align="left">A passionate web developer woman from Basque Country</h3> <h3 align="left"> <a aling="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?Code&pause=1000&color=9a15ad&left=true&Center=true&width=400&lines=+Woman+♀️+coder;+Full+stack+developer+junior+;+Apasionada+del+mundo+web;+Welcome+to+my+digital+universe+" alt="Typing SVG" /></a></h3>
 
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>
+  [<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>](url)
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=vickypineli&label=Profile%20views&color=9a15ad&style=flat" alt="vickypineli" /></p>
 </div>
 
