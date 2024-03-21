@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="55" width="55" alt="slack logo"  />&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="55" width="55" alt="trello logo"  />&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" width="55" alt="vscode logo"  />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="55" alt="vscode logo"  />&nbsp; 
    </p>
 
   <h3 align="left">Connect with me:</h3>
