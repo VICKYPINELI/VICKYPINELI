@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="left">Hi, I'm <a href="https://vickypineli.github.io/minilanding//" target="blank">Vicky</a><img width="40" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
-  <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" align="left" height="300" width="300" />
+  [<img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" align="left" height="300" width="300" />](url)
    <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" align="left" height="300" width="300" />
   </h1>
 <h3 align="left">A passionate web developer woman from Basque Country</h3> <h3 align="left"> <a aling="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?Code&pause=1000&color=9a15ad&left=true&Center=true&width=400&lines=+Woman+♀️+coder;+Full+stack+developer+junior+;+Apasionada+del+mundo+web;+Welcome+to+my+digital+universe+" alt="Typing SVG" /></a></h3>
